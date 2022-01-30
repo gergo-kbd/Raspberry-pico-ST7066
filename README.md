@@ -19,3 +19,7 @@ Display size: 20x4 characters (lcd2004). Includes basic functions. With few chan
 | GP6  | RS  |
 | GP7  | R/W |
 | GP8  | EN  |
+
+# Demo
+
+![271992511_234859742173989_3019624045616107312_n](https://user-images.githubusercontent.com/60490314/151701432-c04ef3d9-c631-47a6-a2d9-7f08e2eb56f5.jpg)
