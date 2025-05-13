@@ -4,7 +4,7 @@
 Compatible with the ST7066/HD44780.
 Display size: 20x4 characters (lcd2004). Includes basic functions. With few changes in the code, you can use it with different sized LCDs, for example 16x2 or smaller.
 
-## Wiring
+## Circuit diagram
 
 ![lcd_driver_sch](https://user-images.githubusercontent.com/60490314/151700925-a0e5e7c1-ec73-4d8c-a68e-6113c827f622.png)
 
